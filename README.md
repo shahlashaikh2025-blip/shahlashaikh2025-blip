@@ -29,7 +29,7 @@ I am highly passionate about programming and continuously strive to improve my s
 I’m a detail-oriented Data Analyst passionate about transforming data into actionable insights.
 I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel data cleaning, helping businesses understand trends and make informed decisions.
 
-
+***
 
 🚀 What I Do
 Create interactive dashboards in Power BI
