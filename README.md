@@ -77,9 +77,11 @@ A complete end-to-end analytics project exploring global music trends using Spot
 
 ---
 
-Power BI | Python | SQL | Excel
-Pandas | NumPy | Matplotlib | Seaborn
-VS Code | GitHub | Jupyter Notebook | kaggle notebook
+● Power BI | Python | SQL | Excel
+
+● Pandas | NumPy | Matplotlib | Seaborn
+
+● VS Code | GitHub | Jupyter Notebook | kaggle notebook
 
 
 <hr style="border: 0; border-top: 1px solid #30363d;">
