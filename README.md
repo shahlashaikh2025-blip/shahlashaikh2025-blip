@@ -22,6 +22,7 @@ I am highly passionate about programming and continuously strive to improve my s
 🌐 My Portfolio https://www.
 💬 Ask me about Python, SQL, Excel, Power BI
 👨‍💻 All of my projects are available at 
+---
 
  🚀 Know about my experiences https://www.linkedin.com/in/shahla-shaikh27
  📧 How to reach me shahlashaikh2025@gmail.com
