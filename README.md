@@ -1,4 +1,4 @@
-# 👋 👋 Hi, I'm Shahla Shaikh
+## 👋 Hi, I'm Shahla Shaikh
 
 ---
 
