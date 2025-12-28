@@ -2,7 +2,7 @@
 
 ---
 
- 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
+ ## 🚀 Junior Data Analyst | Power BI Developer | Software Engineer
  ---
    
 <hr style="height: 0.1px; border: none; background-color: #444; opacity: 0.3;">
@@ -38,7 +38,7 @@ I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel da
 <hr style="border: 0; border-top: 1px solid #30363d;">
 
 
-##🚀 What I Do
+## 🚀 What I Do
 
 ● Create interactive dashboards in Power BI
 
@@ -52,7 +52,7 @@ I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel da
 
 <hr style="border: 0; border-top: 1px solid #30363d;">
 
-📂 Featured Projects
+## 📂 Featured Projects
 
 🎮 1. Global Video Game Sales Analysis | Power BI
 
