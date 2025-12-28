@@ -17,7 +17,6 @@ Currently, I am studying Artificial Intelligence and Data Science at Saylani, wh
 In addition, I have knowledge of HTML, CSS, and JavaScript, and I can create responsive web pages, allowing me to work across both data analysis and web development.
 
 I am highly passionate about programming and continuously strive to improve my skills. My long-term goal is to become a skilled IT programmer and data professional, and to build a successful career in the technology field.
-<hr style="border: 0; border-top: 1px solid #30363d;">
 
 🌐 My Portfolio https://www.
 
