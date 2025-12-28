@@ -75,7 +75,7 @@ A complete end-to-end analytics project exploring global music trends using Spot
 
 ## 🧰 Tech Stack
 
----
+
 
 ● Power BI | Python | SQL | Excel
 
