@@ -5,7 +5,8 @@
 
 
  🚀 Junior Data Analyst | Power BI Developer | Software Engineer
-    
+   
+<hr style="height: 0.1px; border: none; background-color: #444; opacity: 0.3;">
 
 
 I have completed my BCIT from Sindh University, which provided me with a strong academic foundation in information technology and computing concepts.
