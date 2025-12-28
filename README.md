@@ -20,19 +20,23 @@ I am highly passionate about programming and continuously strive to improve my s
 <hr style="border: 0; border-top: 1px solid #30363d;">
 
 🌐 My Portfolio https://www.
+
 💬 Ask me about Python, SQL, Excel, Power BI
+
 👨‍💻 All of my projects are available at 
 
 
  🚀 Know about my experiences https://www.linkedin.com/in/shahla-shaikh27
+ 
  📧 How to reach me shahlashaikh2025@gmail.com
+ 
  <hr style="border: 0; border-top: 1px solid #30363d;">
  
 📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast
 I’m a detail-oriented Data Analyst passionate about transforming data into actionable insights.
 I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel data cleaning, helping businesses understand trends and make informed decisions.
 
-***
+
 
 🚀 What I Do
 Create interactive dashboards in Power BI
