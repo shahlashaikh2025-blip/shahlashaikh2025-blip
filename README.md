@@ -80,7 +80,6 @@ Power BI | Python | SQL | Excel
 Pandas | NumPy | Matplotlib | Seaborn
 VS Code | GitHub | Jupyter Notebook | kaggle notebook
 
-<hr style="border: 0; border-top: 1px solid #30363d;">
 
 ⭐ Thanks for visiting! Explore my projects or connect for data-driven solutions.
 <!--
