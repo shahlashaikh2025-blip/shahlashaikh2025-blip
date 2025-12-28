@@ -1,9 +1,9 @@
  👋 👋 Hi, I'm Shahla Shaikh
 
-<hr style="height:1px; border:none; color:#333; background-color:#333;">
-
+---
 
  🚀 Junior Data Analyst | Power BI Developer | Software Engineer
+ ---
    
 <hr style="height: 0.1px; border: none; background-color: #444; opacity: 0.3;">
 
