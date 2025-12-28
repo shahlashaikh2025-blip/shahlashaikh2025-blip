@@ -1,4 +1,4 @@
-### 👋 👋 Hi, I'm Shahla Shaikh
+####### 👋 👋 Hi, I'm Shahla Shaikh
 
 ---
 
@@ -18,20 +18,20 @@ In addition, I have knowledge of HTML, CSS, and JavaScript, and I can create res
 
 I am highly passionate about programming and continuously strive to improve my skills. My long-term goal is to become a skilled IT programmer and data professional, and to build a successful career in the technology field.
 
-#🌐 My Portfolio https://www.
+🌐 My Portfolio https://www.
 
-#💬 Ask me about Python, SQL, Excel, Power BI
+💬 Ask me about Python, SQL, Excel, Power BI
 
-#👨‍💻 All of my projects are available at 
+👨‍💻 All of my projects are available at 
 
 
-# 🚀 Know about my experiences https://www.linkedin.com/in/shahla-shaikh27
+ 🚀 Know about my experiences https://www.linkedin.com/in/shahla-shaikh27
  
-# 📧 How to reach me shahlashaikh2025@gmail.com
+ 📧 How to reach me shahlashaikh2025@gmail.com
  
  <hr style="border: 0; border-top: 1px solid #30363d;">
  
-##📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast
+📊 Data Analyst | Power BI Developer | Python & SQL Enthusiast
 I’m a detail-oriented Data Analyst passionate about transforming data into actionable insights.
 I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel data cleaning, helping businesses understand trends and make informed decisions.
 
