@@ -35,14 +35,16 @@ I am highly passionate about programming and continuously strive to improve my s
 I’m a detail-oriented Data Analyst passionate about transforming data into actionable insights.
 I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel data cleaning, helping businesses understand trends and make informed decisions.
 
+<hr style="border: 0; border-top: 1px solid #30363d;">
 
 
 ##🚀 What I Do
-Create interactive dashboards in Power BI
-Perform EDA, cleaning & automation using Python
-Write optimized SQL queries for analytics
-Develop KPI-based reports for business decisions
-Deliver clean, visual & meaningful data stories
+
+● Create interactive dashboards in Power BI
+● Perform EDA, cleaning & automation using Python
+● Write optimized SQL queries for analytics
+● Develop KPI-based reports for business decisions
+● Deliver clean, visual & meaningful data stories
 
 <hr style="border: 0; border-top: 1px solid #30363d;">
 
@@ -66,8 +68,17 @@ A complete end-to-end analytics project exploring global music trends using Spot
 <hr style="border: 0; border-top: 1px solid #30363d;">
 
 
+🧰 Tech Stack
 
+---
 
+Power BI | Python | SQL | Excel
+Pandas | NumPy | Matplotlib | Seaborn
+VS Code | GitHub | Jupyter Notebook | kaggle notebook
+
+<hr style="border: 0; border-top: 1px solid #30363d;">
+
+⭐ Thanks for visiting! Explore my projects or connect for data-driven solutions.
 <!--
 **shahlashaikh2025-blip/shahlashaikh2025-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
