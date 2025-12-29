@@ -55,7 +55,8 @@ I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel da
 
 ### 🎮 1. Global Video Game Sales Analysis | Power BI
 
-A deep-dive dashboard showing **genre trends, platforms, publisher performance, and regional sales insights. Skills: Power BI, Python, Excel, Data Visualization
+
+Yeh project Python ka use karke **global video game sales data** ko analyze aur visualize karta hai. Is dataset ki madad se mukhtalif **regions, genres, publishers aur years** ke hisaab se video game sales ka andaza lagaya gaya hai. Is project ka main goal **gaming industry ke trends** ko samajhna aur **clear aur simple data visualizations** ke zariye meaningful insights present karna hai.
 
 ### 🦠 2. COVID-19 Dataset Analysis | Python + Power BI
 
