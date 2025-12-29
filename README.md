@@ -56,7 +56,7 @@ I specialize in Power BI dashboards, Python analytics, SQL queries, and Excel da
 ### 🎮 1. Global Video Game Sales Analysis | Power BI
 
 
-This project focuses on analyzing and visualizing global video game sales data using Python. The dataset provides insights into video game sales across different regions, genres, publishers, and years. The goal of this project is to explore trends in the gaming industry and present meaningful insights through clear and simple data visualizations.roman me btao
+This project focuses on analyzing and visualizing global video game sales data using Python. The dataset provides insights into video game sales across different regions, genres, publishers, and years. The goal of this project is to explore trends in the gaming industry and present meaningful insights through clear and simple data visualizations.
 
 
 ### 🦠 2. COVID-19 Dataset Analysis | Python + Power BI
